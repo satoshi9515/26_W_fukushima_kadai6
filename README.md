@@ -17,6 +17,8 @@ SQLのデータ結合にチャレンジしたいと思います。<br>
 学生、講師の登録で仮パスワードを発行。<br>
 講師、学生画面の作成<br>
 授業進捗ページ作成<br>
+⑤感想
+DBを４つ作成した結果、PHPとDBのDB連携は馴染んできた気がします
 
 メインページ<br>
 ![image](https://user-images.githubusercontent.com/54490421/123516619-fd3edc00-d6d7-11eb-9523-c23ef3ff3e54.png)
